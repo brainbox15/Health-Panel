@@ -1,7 +1,7 @@
 # Health Panel
   A simple health panel design to show the daily activity of your workouts. 
 
-> Live demo, click [_here_](https://grid360.netlify.app/). 
+> Live demo, click [_here_](https://healthpanel.netlify.app). 
 
 ## Table of Contents
 * [Technologies Used](#technologies-used)
