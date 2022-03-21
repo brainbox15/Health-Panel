@@ -13,7 +13,7 @@
 - CSS3 
 
 ## Screenshots
-![Example screenshot](screenshot.png)
+![Example screenshot](images/screenshot.png)
 
 
 ## Project Status
